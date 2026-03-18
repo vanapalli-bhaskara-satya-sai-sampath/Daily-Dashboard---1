@@ -54,6 +54,9 @@ The goal of this challenge is to:
 
 This is a beginner-level dashboard, and I will continue improving with each new dashboard. Feedback and suggestions are welcome.
 
+---
+---
+---
 
 ## Day 2 – Global E-commerce Sales & Profit Optimization
 Realized that Dashboard Building is not showing multiple visuals at on go, rather it is the way you answer a business problem.
