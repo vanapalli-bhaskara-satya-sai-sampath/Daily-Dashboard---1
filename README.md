@@ -59,65 +59,80 @@ This is a beginner-level dashboard, and I will continue improving with each new 
 ---
 
 ## Day 2 – Global E-commerce Sales & Profit Optimization
-Realized that Dashboard Building is not showing multiple visuals at on go, rather it is the way you answer a business problem.
-To perform any analysis there should be a proper structure that is 
+ 
+Realized that Dashboard Building is not just showing multiple visuals at once, rather it is the way you answer a business problem.
+To perform any analysis there should be a proper structure:
+ 
 * Start with a BUSINESS PROBLEM
 * Define the GOAL of your DASHBOARD
 * Walk through key VISUALS
 * Highlight the Key INSIGHTS
 * Show Business Impact
-* Build a Effective Story
-
-Starting with the first step, I have build an Business Requirement Document(BRD) that states what is the objective and key insights to get from the data
+* Build an Effective Story
+ 
+Starting with the first step, I have built a Business Requirement Document (BRD) that states what is the objective and key insights to get from the data.
+ 
 # Global E-commerce Sales & Profit Optimization
-
+ 
 ## Objective
-To analyze global e-commerce sales data and identify actionable insights that improve **revenue, profitability, and operational efficiency** across markets, customers, and products.
-
+To explore global e-commerce sales data and understand **where sales are strong, where profit is low, and which products and regions need attention**.
+ 
 ---
-
+ 
 ## Business Goals
-
-- Increase overall **profit margins** across all regions  
-- Identify **high-performing and underperforming markets**  
-- Optimize **discount and pricing strategies**  
-- Reduce **unnecessary operational and shipping costs**  
-- Improve **customer profitability and retention**  
-- Eliminate or improve **loss-making products**
-
+ 
+- Understand overall **sales and profit performance** across regions
+- Find out which **product categories** sell the most and earn the most profit
+- Identify which **customer segments** (Consumer, Corporate, Home Office) contribute more to sales
+- Spot the **top and bottom performing countries** by sales
+- See how **sales have changed over time** (monthly or quarterly trends)
+- Understand whether **discounts are helping or hurting** profit in simple terms
+ 
 ---
-
-## Key Business Questions / Requirements
-
-Why are we generating high sales but not proportional profits in certain regions? I suspect discounting or shipping costs are eating into margins — I want clarity on where exactly we’re losing money despite strong revenue.
-
-Which markets are actually worth scaling? Just because a region has high sales doesn’t mean it’s profitable. Show me where we should double down and where we should pull back.
-
-I see we are offering discounts — but are they even working? Are higher discounts actually increasing volume, or just reducing profit? I want to know the tipping point where discounts stop making business sense.
-
-Shipping costs seem like a silent killer. Are there specific regions, ship modes, or order priorities where shipping costs are disproportionately high compared to sales?
-
-Who are our most valuable customers? Not just high spenders — I want customers who bring consistent profit. Also, are we overly dependent on a small group of customers?
-
-What product categories or sub-categories are hurting us? I’m sure some products are being sold at a loss — why are we still selling them?
-
-Is there a mismatch between order priority and shipping mode? For example, are we using expensive shipping for low-priority orders? That’s inefficient and needs fixing.
-
-Are there seasonal patterns we are not capitalizing on? I want to know when demand peaks and whether we are maximizing revenue during those periods.
-
-Which cities or countries have high order volume but low profitability? That signals operational inefficiencies, pricing issues, or logistics problems.
-
-What is the relationship between quantity and profit? Are bulk orders actually helping us, or are they being driven by heavy discounts that kill margins?
-
-Are certain customer segments (Consumer, Corporate, Home Office) more profitable than others? If yes, why aren’t we targeting them more aggressively?
-
-Do we have products with consistently negative profit across multiple regions? If yes, why haven’t we discontinued or repriced them?
-
-How does order priority impact delivery cost and profitability? Are we over-serving low-value orders?
-
-Is our pricing strategy consistent globally, or are we blindly applying discounts without considering regional purchasing power and logistics?
-
-Are there anomalies — like unusually high discounts, negative profits, or extreme shipping costs — that indicate data issues or operational problems?
+ 
+## Key Business Questions
+ 
+### Dashboard 1 – Sales Overview
+*Goal: Understand the big picture of the business*
+ 
+1. What is the total sales, total profit, and number of orders in the dataset?
+2. Which region (Africa, APAC, EMEA, EU, LATAM, US, Canada) has the highest total sales?
+3. Which region has the highest total profit?
+4. How have total sales changed year over year — are we growing?
+5. Which year had the best sales performance overall?
+ 
+---
+ 
+### Dashboard 2 – Product & Category Performance
+*Goal: Understand what products are driving sales and profit*
+ 
+6. Which product category (Furniture, Office Supplies, Technology) has the highest sales?
+7. Which product category has the highest profit?
+8. Which sub-category (e.g., Phones, Chairs, Binders) sells the most?
+9. Which sub-category has the lowest or negative profit — are we losing money on it?
+10. Is there a product category where sales are high but profit is low?
+ 
+---
+ 
+### Dashboard 3 – Customer Segment Analysis
+*Goal: Understand who our customers are and how they buy*
+ 
+11. Which customer segment (Consumer, Corporate, Home Office) has the highest total sales?
+12. Which segment places the most number of orders?
+13. Which segment generates the most profit?
+14. How does each segment's sales look across different regions?
+15. Which segment gets the highest discounts on average?
+ 
+---
+ 
+### Story – Putting It All Together
+*Goal: Tell a clear business story using the 3 dashboards above*
+ 
+- Start with the big picture: Total Sales, Profit, and Orders (Dashboard 1)
+- Highlight which region is performing best and which is struggling
+- Move to products: Show which categories are profitable and which are not (Dashboard 2)
+- Then zoom into customers: Show which segment drives the business (Dashboard 3)
+- End with a key insight: For example — *"Consumer segment in the APAC region drives the most sales, but Technology products in LATAM are being sold at a loss due to heavy discounts."*
 
 ---
 ---
