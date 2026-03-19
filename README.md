@@ -121,3 +121,22 @@ Are there anomalies — like unusually high discounts, negative profits, or extr
 
 ---
 ---
+
+## Day 3 – Sales Analysis Dashboard
+
+**Live Dashboard:**  
+https://public.tableau.com/app/profile/sampath.vanapalli/viz/19-03SalesAnalysis/Dashboard1?publish=yes
+
+---
+
+## Overview
+
+This dashboard focuses on **basic sales analysis** to understand overall performance across different dimensions.
+
+The goal is to strengthen fundamentals in **data visualization, layout design, and exploratory analysis** before moving into deeper business insights.
+
+---
+
+## Objective
+
+To explore and analyze sales data across key dimensions such as **time, category, and region**.
