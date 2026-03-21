@@ -114,15 +114,21 @@ To explore global e-commerce sales data and understand **where sales are strong,
  
 ---
  
-### Dashboard 3 – Customer Segment Analysis
-*Goal: Understand who our customers are and how they buy*
- 
-11. Which customer segment (Consumer, Corporate, Home Office) has the highest total sales?
-12. Which segment places the most number of orders?
-13. Which segment generates the most profit?
-14. How does each segment's sales look across different regions?
-15. Which segment gets the highest discounts on average?
- 
+## Day 3 – Negative Profit Analysis Dashboard
+### Objective
+
+To analyze negative profit across countries, products, and cost factors in order to uncover loss-making patterns and support better business decisions.
+
+---
+
+### Key Questions Answered
+
+1. Which **countries and regions** are generating negative profits?  
+2. Which **product sub-categories** contribute the most to losses?  
+3. Are **higher discounts** associated with negative profit regions?  
+4. How do **shipping costs impact** profitability in loss-making areas?  
+5. Which areas show **high sales but still result in negative profit**?  
+
 ---
  
 ### Story – Putting It All Together
