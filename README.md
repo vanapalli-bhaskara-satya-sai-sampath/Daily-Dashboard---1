@@ -224,7 +224,7 @@ To evaluate sales and profit distribution across product categories and sub-cate
 ## Day 5 – Negative Profit Analysis Dashboard
 
 **Live Dashboard:**  
-[Add your Tableau link here]
+https://public.tableau.com/app/profile/sampath.vanapalli/viz/21-03SalesAnalysis/Dashboard3?publish=yes
 
 ---
 
