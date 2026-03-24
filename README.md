@@ -327,3 +327,68 @@ The goal of this dashboard is to explore patterns in sales, profit, and performa
 - Strengthened Tableau skills through daily practice  
 
 ---
+
+
+---
+
+## Day 8 – Mortality Rate Analysis Dashboard  
+
+🔗 **Live Dashboard:**  
+https://public.tableau.com/app/profile/sampath.vanapalli/viz/24-03_17743681649560/Dashboard1?publish=yes  
+
+---
+
+### 📊 Overview  
+
+This dashboard focuses on analyzing **mortality rates across different countries** and understanding how they relate to economic factors like **GDP**.  
+
+It provides a comparative view of mortality trends across nations and highlights patterns over time.
+
+---
+
+### 🎯 Objective  
+
+- To analyze **mortality rates (Male, Female, Infant)** across countries  
+- To compare mortality rates with **GDP contribution**  
+- To identify **trends in mortality over the years**  
+- To highlight differences between **developed and developing nations**  
+
+---
+
+### ❓ Key Questions Answered  
+
+1. How do mortality rates differ across countries?  
+2. Which countries have **higher mortality rates** despite economic strength?  
+3. How has mortality rate changed **over time**?  
+4. Is there a relationship between **GDP and mortality rate**?  
+5. Which countries perform better in terms of **health outcomes**?  
+
+---
+
+### 📌 Key Insights *(Update based on your observations)*  
+
+- Developed countries like the **United States, Germany, and Switzerland** show different mortality patterns compared to others  
+- Mortality rates have shown a **gradual decline over time**  
+- Some countries with higher GDP still have **relatively higher mortality rates**  
+- Infant mortality remains a critical indicator for comparing health conditions  
+
+---
+
+### 🛠️ Dashboard Features  
+
+- Country-wise **mortality rate comparison (Male, Female, Infant)**  
+- **Trend analysis** of mortality rates over years  
+- **GDP vs Mortality** relationship visualization  
+- Comparative analysis across multiple countries  
+- Interactive visuals for deeper exploration  
+
+---
+
+### 🚀 Learning Outcome  
+
+- Learned how to analyze **health data with economic indicators**  
+- Improved skills in **multi-metric comparison dashboards**  
+- Better understanding of **trend analysis and correlation**  
+- Enhanced ability to tell stories using **real-world datasets**  
+
+---
